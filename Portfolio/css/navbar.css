@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(25, 89, 25);
+    opacity: 90%;
+}
+
+
+.navbar {
+    font-size: 1.5rem;
+}
+
+.navbar .container-fluid .nav-item a {
+    color: white;
+    margin-left: 25px;
+}
+
+.navbar .container-fluid .nav-item a:hover {
+    color: black;
+    background: white;
+    border-radius: 5px;
+
+}
