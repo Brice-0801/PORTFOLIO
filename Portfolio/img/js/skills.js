@@ -4,8 +4,7 @@ window.addEventListener('load', () => {
     let values = [
         '80%',
         '80%',
-        '50%',
-        '50%',
+        '40%',
         '40%',
         '30%',
 

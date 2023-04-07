@@ -3,11 +3,26 @@
     padding: 0;
 }
 
-.skills {
-    width: 100%;
-    height: 100vh;
+.content-skills {
     display: flex;
+    flex-direction: column;
+    font-size: 30px;
 }
+
+.content-title {
+    margin-top: 20px;
+}
+
+
+.skillsme {
+    text-align: center;
+    color: black;
+    margin-top: 10%;
+    background-color: rgb(25, 89, 25);
+    opacity: 90%;
+
+}
+
 
 .box {
     width: 100%;
